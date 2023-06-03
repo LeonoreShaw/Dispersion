@@ -1,7 +1,7 @@
 # Dispersion
 Simulate 2,3,4,5,6,7 order dispersion in Python.
 ## License
-MIT License
+    MIT License
 
     Copyright (c) 2023 Léonore Shaw
 
